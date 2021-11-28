@@ -1,2 +1,2 @@
 # hello-world
-my first python code
+Hello my name is Bryan Ray Bantilan
